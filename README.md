@@ -9,8 +9,7 @@
    3. Copy the `DacRussian` folder into:
  
       ```text
-      .../SteamLibrary/steamapps/common/Dungeons And Cat/BepInEx/plugins/ ```
-      
+      .../SteamLibrary/steamapps/common/Dungeons And Cat/BepInEx/plugins/ 
       
    5. Start the game and select **English** in the language settings.
  
