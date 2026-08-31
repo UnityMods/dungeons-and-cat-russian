@@ -13,12 +13,14 @@
       
    4. The resulting structure should look like this:
     ```
+
      Dungeons And Cat/
      └── BepInEx/
          └── plugins/
              └── DacRussian/
                  ├── DacRussian.dll
                  └── translations.json
+                 
       ```
       
    6. Start the game and select **English** in the language settings.
